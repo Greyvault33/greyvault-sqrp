@@ -1,0 +1,43 @@
+# Greyvault SQRP Technical Specification
+
+## Overview
+Greyvault’s Self-Evolving Quantum Resistance Protocol (SQRP) is a cryptographic framework designed for autonomous aerospace systems, especially satellites. Unlike static encryption, SQRP evolves its own protocol parameters over time using fitness-based mutation logic. This approach maintains DO-178C compliance while achieving measurable quantum resistance against Grover and Shor-class attacks.
+
+## Objectives
+- Achieve >90% resistance to quantum decryption attempts
+- Maintain aerospace-grade compliance (DO-178C Level B)
+- Operate autonomously without ground-based key rotation
+- Establish cryptographic diversity across satellite constellations
+
+## Core Components
+- **Mutation Engine:** Applies probabilistic changes to protocol traits (key size, entropy source, cipher suite)
+- **Fitness Evaluator:** Scores protocol variants based on entropy, mutation history, and simulated quantum attack models
+- **Protocol Genome:** Encoded representation of cryptographic traits (64-bit vector)
+- **Evolution Cycle:** Triggered by entropy drift, time intervals, or anomaly detection
+
+## Architecture
+Satellite OS --> Greyvault SQRP --> Mutation Engine <--Fitness Evaulator
+Protocol Genome --> Encryption Layer
+
+## Performance Metrics
+| Metric               | Value                          |
+|----------------------|--------------------------------|
+| Quantum Resistance   | 95% (simulated)                |
+| Mutation Rate        | 1–3% per cycle                 |
+| Protocol Convergence | ~12–18 generations             |
+| Resource Overhead    | <5% CPU, <2MB RAM              |
+
+## Compliance
+- DO-178C Level B alignment
+- FIPS 140-3 entropy source integration
+- Hybrid post-quantum + classical fallback supported
+
+## Status
+- Patent pending (filed October 2025)
+- Public disclosure timestamped via GitHub and CodePen
+
+## Contact
+Deonate Sutton  
+Founder, Greyvault  
+suttond251@gmail.com  
+Kinston, NC
