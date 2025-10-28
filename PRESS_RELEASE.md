@@ -11,7 +11,7 @@ The technology is patent pending and publicly timestamped via GitHub and CodePen
 
 **Contact:**  
 Deonate Sutton  
-suttond251@gmail.com  
+dsutton15@my.miller-motte.edu  
 Kinston, NC
 
 **Keywords:**  
