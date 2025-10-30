@@ -1,19 +1,21 @@
-Greyvault Open Source License v1.0
+MIT License
 
-Copyright © 2025 Greyvault
+Copyright (c) 2025 Deonate Sutton
 
-This software and its associated visual demonstration are licensed under the Greyvault Open Source License v1.0.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-Permission is hereby granted, free of charge, to any person viewing this CodePen project, to use the software for educational and non-commercial purposes, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-1. Attribution
-All copies, forks, or derivative works must include visible credit to Greyvault and the original author, Deonate, with a link to the original CodePen project.
-2. Non-Commercial Use Only
-This license does not permit commercial use, resale, or integration into proprietary systems without written permission from Greyvault.
-3. No Warranty
-This software is provided “as is”, without warranty of any kind. Greyvault is not liable for any damages arising from its use.
-4. Evolution Protocol IP
-The mutation engine and autonomous protocol evolution logic demonstrated herein are part of a pending patent application. Use of this logic beyond educational purposes may constitute infringement.
-
-
-Contact: For licensing inquiries, partnerships, or commercial use, contact Greyvault at suttond251@gmail.com
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
