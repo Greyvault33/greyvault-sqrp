@@ -1,0 +1,139 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Greyvault - Protocol Evolution</title>
+    <style>
+        body {
+            background: #0a0a0a;
+            color: #fff;
+            font-family: -apple-system, sans-serif;
+            padding: 2rem;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+        h1 {
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+        .stat-card {
+            background: #222;
+            padding: 1rem;
+            border-radius: 8px;
+            text-align: center;
+        }
+        .stat-value {
+            font-size: 2rem;
+            color: #667eea;
+        }
+        .genome-visual {
+            display: grid;
+            grid-template-columns: repeat(16, 1fr);
+            gap: 4px;
+            margin: 2rem 0;
+        }
+        .gene {
+            aspect-ratio: 1;
+            background: #333;
+            border-radius: 4px;
+        }
+        .gene.active {
+            background: #667eea;
+        }
+        .btn {
+            padding: 0.75rem 2rem;
+            border: none;
+            border-radius: 8px;
+            background: #667eea;
+            color: white;
+            cursor: pointer;
+            margin: 0.5rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>
+Greyvault Protocol Evolution</h1>
+        <p>Quantum-resistant protocols that evolve</p>
+    </div>
+   
+    <div class="stats">
+        <div class="stat-card">
+            <div class="stat-value" id="generation">0</div>
+            <div>Generation</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-value" id="fitness">0%</div>
+            <div>Fitness</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-value" id="mutations">0</div>
+            <div>Mutations</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-value" id="resistance">0%</div>
+            <div>Quantum Resistance</div>
+        </div>
+    </div>
+   
+    <div class="genome-visual" id="genome"></div>
+   
+    <div style="text-align: center;">
+        <button class="btn" onclick="evolve()">Start Evolution</button>
+        <button class="btn" onclick="location.reload()">Reset</button>
+    </div>
+
+    <script>
+        let generation = 0;
+        let fitness = 20;
+        let mutations = 0;
+        let genome = Array(16).fill(0).map(() => Math.random() > 0.5);
+       
+        function updateDisplay() {
+            document.getElementById('generation').textContent = generation;
+            document.getElementById('fitness').textContent = fitness + '%';
+            document.getElementById('mutations').textContent = mutations;
+            document.getElementById('resistance').textContent = Math.round(fitness * 0.8) + '%';
+           
+            const genomeDiv = document.getElementById('genome');
+            genomeDiv.innerHTML = '';
+            genome.forEach(gene => {
+                const div = document.createElement('div');
+                div.className = gene ? 'gene active' : 'gene';
+                genomeDiv.appendChild(div);
+            });
+        }
+       
+        function evolve() {
+            setInterval(() => {
+                // Mutate random genes
+                const pos = Math.floor(Math.random() * genome.length);
+                genome[pos] = !genome[pos];
+               
+                // Calculate new fitness
+                const activeGenes = genome.filter(g => g).length;
+                const newFitness = Math.min(95, 20 + (activeGenes * 5) + Math.random() * 10);
+               
+                if (newFitness > fitness) {
+                    fitness = Math.round(newFitness);
+                    generation++;
+                    mutations++;
+                }
+               
+                updateDisplay();
+            }, 500);
+        }
+       
+        updateDisplay();
+    </script>
+</body>
+</html>
