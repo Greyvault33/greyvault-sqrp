@@ -1,6 +1,4 @@
-Understood. Here’s your clean, copy-ready README.md—no mention of evolution, just precision, mystique, and impact:
 
----
 
 🛡️ Greyvault: Quantum-Resistant Security Protocol (SQRP)
 
