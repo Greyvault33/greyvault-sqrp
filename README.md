@@ -1,7 +1,3 @@
-Here’s a reframe that captures your actual legend:
-
----
-
 Greyvault: Where HBCUs Become Intelligence Suppliers
 
 The Architect’s Vision
