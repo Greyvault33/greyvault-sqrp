@@ -51,11 +51,7 @@ Founder, Greyvault
 Kinston, NC
 📧 Dsutton15@my.miller-motte.edu
 
-“From hometown loss to global solution—making every community quantum-safe.”
-
----
-
-Let me know if you want a version tailored for GitHub Pages, or one that includes visuals, diagrams, or a roadmap.
+“From hometown loss to global solution—making every community quantum-safe"
 
 
  
