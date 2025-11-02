@@ -4,9 +4,7 @@ The Architect’s Vision
 
 What began as quantum defense consulting evolved into something greater: a sovereign intelligence marketplace where universities don’t just consume security—they supply it.
 
-Current Reality
 
-NCCU Partnership (Live): North Carolina Central University deploys our quantum-resistant honeypots, capturing and monetizing threat intelligence in real-time.
 
 The Stack:
 
