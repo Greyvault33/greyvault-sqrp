@@ -1,35 +1,62 @@
-Greyvault: Where HBCUs Become Intelligence Suppliers
+Got it. Here’s your updated, copy-ready README.md—no live demo, all legend:
 
-The Architect’s Vision
+---
 
-What began as quantum defense consulting evolved into something greater: a sovereign intelligence marketplace where universities don’t just consume security—they supply it.
+🛡️ Greyvault: Evolutionary Quantum-Resistant Security Protocol (SQRP)
+
+From $1.34M Lost to Sovereign Defense
+
+In 2025, Lenoir County lost $1.34M to payment fraud. Greyvault was born from that breach—not as a reaction, but as a revolution.
+
+SQRP isn’t just quantum-resistant. It evolves.
+Using genetic algorithms, our protocol adapts in real time, mutating its defenses with every threat.
+
+---
+
+🎯 Why It Matters
+
+Traditional cybersecurity is static.
+Attackers evolve.
+Greyvault mutates.
+
+Every breach attempt strengthens the protocol.
+Every threat becomes training data.
+Every partner becomes a sovereign actor.
+
+---
+
+🤝 Partnership Opportunities
+
+Universities
+
+• Launch student-led research on evolutionary defense
+• Monetize threat data through sovereign intelligence capture
 
 
+Municipalities
 
-The Stack:
-
-• Quantum-resistant cryptographic watermarking
-• Evolutionary honeypot architecture
-• Threat intelligence capture & monetization engine
-• Revenue-sharing dashboard for institutional partners
+• Deploy adaptive protocols across infrastructure
+• Turn local breaches into global resilience
 
 
-The Movement
+Investors
 
-We’re not building another security tool. We’re architecting digital sovereignty—where HBCUs and community institutions become first-class participants in the $500B cybersecurity economy.
+• Back the NASDAQ of threat intelligence
+• Join the movement redefining cybersecurity as evolution, not reaction
 
-For HBCUs: Transform from targets to suppliers. Your threat data becomes revenue.
 
-For Investors: The NASDAQ of threat intelligence starts here.
+---
 
-For Communities: Digital literacy workshops launching in Kinston, NC—because sovereignty begins at home.
-
-Contact
+📫 Contact
 
 Deonate Sutton
-Founder & Architect
-Greyvault Defense Systems
+Founder, Greyvault
 Kinston, NC
+📧 Dsutton15@my.miller-motte.edu
 
-From industrial maintenance to quantum defense—proof that builders don’t need permission to architect the future.
+“From hometown loss to global solution—making every community quantum-safe.”
+
+---
+
+Let me know if you want a version tailored for GitHub Pages, or one that includes visuals, diagrams, or a roadmap.
  
