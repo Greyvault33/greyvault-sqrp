@@ -1,6 +1,4 @@
-Got it. Here’s your updated, copy-ready README.md—no live demo, all legend:
 
----
 
 🛡️ Greyvault: Evolutionary Quantum-Resistant Security Protocol (SQRP)
 
