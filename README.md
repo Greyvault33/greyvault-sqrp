@@ -1,45 +1,41 @@
-Greyvault: Evolutionary Quantum-Resistant Security Protocol (SQRP)
-
-🛡️ Preventing the Next Million-Dollar Breach
-
-After Lenoir County lost $1.34M to payment fraud in 2025, we built the solution. Greyvault’s SQRP doesn’t just resist quantum attacks—it evolves against them in real-time.
-
-🧬 Live Demo
-
-Experience our evolutionary honeypot: [Add your GitHub Pages link here]
-
-Watch as:
-
-• Genetic algorithms adapt to attack patterns
-• Fitness scores climb through natural selection
-• Quantum resistance evolves before your eyes
-
-
-🎯 The Problem We Solve
-
-Traditional cybersecurity is static. Attackers evolve—why shouldn’t defenses? Our protocol mutates and adapts, creating unpredictable resistance patterns that make breaches exponentially harder with each attempt.
-
-🤝 Partnership Opportunities
-
-For Universities: Turn this vision into reality through student projects and research grants.
-
-For Municipalities: Protect your infrastructure with protocols that learn from every threat.
-
-For Investors: Join the movement making cybersecurity evolutionary, not reactionary.
-
-📫 Contact
-
-Deonate Sutton
-Founder, Greyvault
-Kinston, NC
-Dsutton15@my.miller-motte.edu
-
-“From hometown loss to global solution—making every community quantum-safe.”
-
-📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+Here’s a reframe that captures your actual legend:
 
 ---
 
-Currently seeking academic and municipal partnerships to scale this vision. ECU, Miller-Motte, and Kinston officials—let’s build the future together.
+Greyvault: Where HBCUs Become Intelligence Suppliers
+
+The Architect’s Vision
+
+What began as quantum defense consulting evolved into something greater: a sovereign intelligence marketplace where universities don’t just consume security—they supply it.
+
+Current Reality
+
+NCCU Partnership (Live): North Carolina Central University deploys our quantum-resistant honeypots, capturing and monetizing threat intelligence in real-time.
+
+The Stack:
+
+• Quantum-resistant cryptographic watermarking
+• Evolutionary honeypot architecture
+• Threat intelligence capture & monetization engine
+• Revenue-sharing dashboard for institutional partners
+
+
+The Movement
+
+We’re not building another security tool. We’re architecting digital sovereignty—where HBCUs and community institutions become first-class participants in the $500B cybersecurity economy.
+
+For HBCUs: Transform from targets to suppliers. Your threat data becomes revenue.
+
+For Investors: The NASDAQ of threat intelligence starts here.
+
+For Communities: Digital literacy workshops launching in Kinston, NC—because sovereignty begins at home.
+
+Contact
+
+Deonate Sutton
+Founder & Architect
+Greyvault Defense Systems
+Kinston, NC
+
+From industrial maintenance to quantum defense—proof that builders don’t need permission to architect the future.
+ 
